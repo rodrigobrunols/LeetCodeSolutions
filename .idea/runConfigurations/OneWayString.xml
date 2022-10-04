@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OneWayString" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.OneWayString" />
+    <module name="LeetCodeSolutions" />
+    <option name="PROGRAM_PARAMETERS" value="pales pale" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.lab.solutions.strings.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

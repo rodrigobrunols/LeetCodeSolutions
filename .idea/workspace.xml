@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bd0c5cf-4c6b-4a03-8c4e-ca7f69404e15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/OneWayString.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/hashtable/MyHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/linkedlist/KthLastElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/linkedlist/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/linkedlist/Partition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/linkedlist/RemoveDups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/linkedlist/SumLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/strings/CompressionString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/strings/IsPalindromPermutationString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/strings/IsPermutationString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/strings/IsRotationString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/strings/OneWayString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lab/solutions/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FBKCJyJ0jCdt48PT4dybWgCyii" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/rodrigobruno/Desenvolvimento/workspaces/lab-workspace/LeetCodeSolutions",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.lab.solutions.linkedlist" />
+      <recent name="org.lab.solutions.hashtable" />
+      <recent name="org.lab.solutions.strings" />
+      <recent name="org.lab.solutions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SumLists">
+    <configuration name="CompressionString" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.CompressionString" />
+      <module name="LeetCodeSolutions" />
+      <option name="PROGRAM_PARAMETERS" value="abcdefg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPermutationString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.IsPermutationString" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lab.solutions.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.linkedlist.MyLinkedList" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lab.solutions.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.linkedlist.Partition" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lab.solutions.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.linkedlist.SumLists" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lab.solutions.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OneWayString" />
+      <item itemvalue="Application.CompressionString" />
+      <item itemvalue="Application.MyLinkedList" />
+      <item itemvalue="Application.Partition" />
+      <item itemvalue="Application.SumLists" />
+      <item itemvalue="Application.IsPermutationString" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumLists" />
+        <item itemvalue="Application.Partition" />
+        <item itemvalue="Application.MyLinkedList" />
+        <item itemvalue="Application.IsPermutationString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd0c5cf-4c6b-4a03-8c4e-ca7f69404e15" name="Changes" comment="" />
+      <created>1663959910773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663959910773</updated>
+      <workItem from="1664903407255" duration="1065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/lab/solutions/strings/IsPalindromPermutationString.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
