@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd0c5cf-4c6b-4a03-8c4e-ca7f69404e15" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lab/solutions/stacksequeues/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/stacksequeues/MyStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +190,11 @@
       <workItem from="1664903407255" duration="10006000" />
       <workItem from="1664999095569" duration="643000" />
       <workItem from="1665001294489" duration="1763000" />
-      <workItem from="1665058026397" duration="1500000" />
+      <workItem from="1665058026397" duration="2190000" />
+      <workItem from="1665168557245" duration="2914000" />
+      <workItem from="1665270954546" duration="755000" />
+      <workItem from="1665392116119" duration="599000" />
+      <workItem from="1665667701380" duration="5508000" />
     </task>
     <servers />
   </component>
