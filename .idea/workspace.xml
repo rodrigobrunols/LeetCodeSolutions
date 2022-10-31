@@ -49,17 +49,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.lab.solutions.threads" />
       <recent name="org.lab.solutions.stacksequeues" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.lab.solutions.threads" />
       <recent name="org.lab.solutions.stacksequeues" />
       <recent name="org.lab.solutions.linkedlist" />
       <recent name="org.lab.solutions.hashtable" />
       <recent name="org.lab.solutions.strings" />
-      <recent name="org.lab.solutions" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.LeetCodeSolutions [clean,compile]">
+  <component name="RunManager" selected="Application.org.lab.solutions.threads.callinorder.RunnableExample">
     <configuration name="CompressionString" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.CompressionString" />
       <module name="LeetCodeSolutions" />
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPermutationString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.IsPermutationString" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.MyClass" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.strings.*" />
+          <option name="PATTERN" value="org.lab.solutions.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.linkedlist.MyLinkedList" />
+    <configuration name="MyClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.MyClass2" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.linkedlist.*" />
+          <option name="PATTERN" value="org.lab.solutions.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.linkedlist.Partition" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.dinningphilosophers.Principal" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.linkedlist.*" />
+          <option name="PATTERN" value="org.lab.solutions.threads.dinningphilosophers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.stacksequeues.SortedStack" />
+    <configuration name="RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.RunnableExample" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.stacksequeues.*" />
+          <option name="PATTERN" value="org.lab.solutions.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.linkedlist.SumLists" />
+    <configuration name="org.lab.solutions.threads.callinorder.RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.callinorder.RunnableExample" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.linkedlist.*" />
+          <option name="PATTERN" value="org.lab.solutions.threads.callinorder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,20 +163,20 @@
     <list>
       <item itemvalue="Application.OneWayString" />
       <item itemvalue="Application.CompressionString" />
-      <item itemvalue="Application.SortedStack" />
-      <item itemvalue="Application.MyLinkedList" />
-      <item itemvalue="Application.Partition" />
-      <item itemvalue="Application.SumLists" />
-      <item itemvalue="Application.IsPermutationString" />
+      <item itemvalue="Application.Principal" />
+      <item itemvalue="Application.RunnableExample" />
+      <item itemvalue="Application.org.lab.solutions.threads.callinorder.RunnableExample" />
+      <item itemvalue="Application.MyClass" />
+      <item itemvalue="Application.MyClass2" />
       <item itemvalue="Maven.LeetCodeSolutions [clean,compile]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortedStack" />
-        <item itemvalue="Application.SumLists" />
-        <item itemvalue="Application.Partition" />
-        <item itemvalue="Application.MyLinkedList" />
-        <item itemvalue="Application.IsPermutationString" />
+        <item itemvalue="Application.org.lab.solutions.threads.callinorder.RunnableExample" />
+        <item itemvalue="Application.RunnableExample" />
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.MyClass2" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +196,12 @@
       <workItem from="1665270954546" duration="755000" />
       <workItem from="1665392116119" duration="599000" />
       <workItem from="1665667701380" duration="5508000" />
+      <workItem from="1666178756530" duration="15000" />
+      <workItem from="1666178794431" duration="2188000" />
+      <workItem from="1666261308686" duration="3347000" />
+      <workItem from="1666695889421" duration="2140000" />
+      <workItem from="1666785234443" duration="5940000" />
+      <workItem from="1666983269966" duration="1115000" />
     </task>
     <servers />
   </component>
