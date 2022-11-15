@@ -53,14 +53,14 @@
       <recent name="org.lab.solutions.stacksequeues" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.lab.solutions.leetcode" />
+      <recent name="org.lab.solutions" />
       <recent name="org.lab.solutions.threads" />
       <recent name="org.lab.solutions.stacksequeues" />
       <recent name="org.lab.solutions.linkedlist" />
-      <recent name="org.lab.solutions.hashtable" />
-      <recent name="org.lab.solutions.strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.lab.solutions.threads.callinorder.RunnableExample">
+  <component name="RunManager" selected="Application._58_LenthOfLastWord">
     <configuration name="CompressionString" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.CompressionString" />
       <module name="LeetCodeSolutions" />
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.MyClass" />
+    <configuration name="_14_LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._14_LongestCommonPrefix" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.threads.*" />
+          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.MyClass2" />
+    <configuration name="_20_ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._20_ValidParentheses" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.threads.*" />
+          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.dinningphilosophers.Principal" />
+    <configuration name="_35_SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._35_SearchInsertPosition" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.threads.dinningphilosophers.*" />
+          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.RunnableExample" />
+    <configuration name="_58_LenthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._58_LenthOfLastWord" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.threads.*" />
+          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.lab.solutions.threads.callinorder.RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.threads.callinorder.RunnableExample" />
+    <configuration name="_9_Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._9_Palindrom" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lab.solutions.threads.callinorder.*" />
+          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,20 +163,20 @@
     <list>
       <item itemvalue="Application.OneWayString" />
       <item itemvalue="Application.CompressionString" />
-      <item itemvalue="Application.Principal" />
-      <item itemvalue="Application.RunnableExample" />
-      <item itemvalue="Application.org.lab.solutions.threads.callinorder.RunnableExample" />
-      <item itemvalue="Application.MyClass" />
-      <item itemvalue="Application.MyClass2" />
+      <item itemvalue="Application._58_LenthOfLastWord" />
+      <item itemvalue="Application._14_LongestCommonPrefix" />
+      <item itemvalue="Application._20_ValidParentheses" />
+      <item itemvalue="Application._35_SearchInsertPosition" />
+      <item itemvalue="Application._9_Palindrom" />
       <item itemvalue="Maven.LeetCodeSolutions [clean,compile]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.lab.solutions.threads.callinorder.RunnableExample" />
-        <item itemvalue="Application.RunnableExample" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.MyClass2" />
+        <item itemvalue="Application._58_LenthOfLastWord" />
+        <item itemvalue="Application._35_SearchInsertPosition" />
+        <item itemvalue="Application._20_ValidParentheses" />
+        <item itemvalue="Application._14_LongestCommonPrefix" />
+        <item itemvalue="Application._9_Palindrom" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +202,16 @@
       <workItem from="1666695889421" duration="2140000" />
       <workItem from="1666785234443" duration="5940000" />
       <workItem from="1666983269966" duration="1115000" />
+      <workItem from="1667211111848" duration="3361000" />
+      <workItem from="1667261396099" duration="8641000" />
+      <workItem from="1667329985065" duration="4735000" />
+      <workItem from="1667467720382" duration="2407000" />
+      <workItem from="1667899552951" duration="3597000" />
+      <workItem from="1667989182020" duration="2571000" />
+      <workItem from="1668024557756" duration="8217000" />
+      <workItem from="1668160323211" duration="3174000" />
+      <workItem from="1668198291976" duration="1963000" />
+      <workItem from="1668508615873" duration="278000" />
     </task>
     <servers />
   </component>
