@@ -93,7 +93,7 @@ public class _21_MergeSortedLists {
             tail = tail.next;
         }
 
-        tail.next = l1 == null ? l2 : l1;
+        tail.next = (l1 == null ? l2 : l1);
 
         return head.next;
 

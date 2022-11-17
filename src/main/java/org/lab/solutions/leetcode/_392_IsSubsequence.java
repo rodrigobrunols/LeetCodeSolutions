@@ -58,11 +58,6 @@ public class _392_IsSubsequence {
         return pLeft == leftBound;
     }
 
-
-
-
-
-
     /**
      * @param args
      */
