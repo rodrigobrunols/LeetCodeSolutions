@@ -60,7 +60,7 @@
       <recent name="org.lab.solutions.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._58_LenthOfLastWord">
+  <component name="RunManager" selected="Application._205_IsomorphicString">
     <configuration name="CompressionString" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.CompressionString" />
       <module name="LeetCodeSolutions" />
@@ -69,8 +69,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14_LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._14_LongestCommonPrefix" />
+    <configuration name="FirstRecursiveClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.recursion.FirstRecursiveClass" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lab.solutions.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_205_IsomorphicString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._205_IsomorphicString" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
@@ -121,19 +134,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9_Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._9_Palindrom" />
-      <module name="LeetCodeSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LeetCodeSolutions [clean,compile]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -163,20 +163,20 @@
     <list>
       <item itemvalue="Application.OneWayString" />
       <item itemvalue="Application.CompressionString" />
+      <item itemvalue="Application.FirstRecursiveClass" />
+      <item itemvalue="Application._205_IsomorphicString" />
       <item itemvalue="Application._58_LenthOfLastWord" />
-      <item itemvalue="Application._14_LongestCommonPrefix" />
       <item itemvalue="Application._20_ValidParentheses" />
       <item itemvalue="Application._35_SearchInsertPosition" />
-      <item itemvalue="Application._9_Palindrom" />
       <item itemvalue="Maven.LeetCodeSolutions [clean,compile]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._205_IsomorphicString" />
+        <item itemvalue="Application.FirstRecursiveClass" />
         <item itemvalue="Application._58_LenthOfLastWord" />
         <item itemvalue="Application._35_SearchInsertPosition" />
         <item itemvalue="Application._20_ValidParentheses" />
-        <item itemvalue="Application._14_LongestCommonPrefix" />
-        <item itemvalue="Application._9_Palindrom" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,8 @@
       <workItem from="1668024557756" duration="8217000" />
       <workItem from="1668160323211" duration="3174000" />
       <workItem from="1668198291976" duration="1963000" />
-      <workItem from="1668508615873" duration="5948000" />
+      <workItem from="1668508615873" duration="11976000" />
+      <workItem from="1668677652463" duration="2960000" />
     </task>
     <servers />
   </component>
