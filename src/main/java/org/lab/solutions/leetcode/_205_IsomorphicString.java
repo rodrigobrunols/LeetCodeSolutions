@@ -53,7 +53,6 @@ public class _205_IsomorphicString {
             if (mappedchar == null && charmap.containsValue(t.charAt(i))) return false;
 
             charmap.put(s.charAt(i), t.charAt(i));
-            s.substring();
         }
 
         return true;
