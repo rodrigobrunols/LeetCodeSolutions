@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd0c5cf-4c6b-4a03-8c4e-ca7f69404e15" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_205_IsomorphicString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_205_IsomorphicString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +212,9 @@
       <workItem from="1668160323211" duration="3174000" />
       <workItem from="1668198291976" duration="1963000" />
       <workItem from="1668508615873" duration="11976000" />
-      <workItem from="1668677652463" duration="7670000" />
+      <workItem from="1668677652463" duration="9786000" />
+      <workItem from="1669028618513" duration="719000" />
+      <workItem from="1669054762856" duration="1769000" />
     </task>
     <servers />
   </component>
