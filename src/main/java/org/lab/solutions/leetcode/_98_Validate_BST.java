@@ -25,6 +25,7 @@ public class _98_Validate_BST {
         return preeorder(root, null, null);
     }
 
+    private Integer prev = null;
 
     /**
      * Time O(n)
@@ -41,8 +42,20 @@ public class _98_Validate_BST {
         //process
         if ( (low != null && root.val <= low) || (high != null && root.val >= high)) return false;
 
-        return preeorder(root.left, low, root.val) &&
-                preeorder(root.right, root.val, high);
+        return preeorder(root.left, low, root.val) && preeorder(root.right, root.val, high);
+    }
+
+    public boolean inorder(TreeNode root){
+        if(root == null) return true;
+
+        if(!inorder(root.left)) return false;
+        
+        //procces
+        if(prev != null && root.val <= prev) return false;
+        prev = root.val;
+
+        return inorder(root.right);
+
     }
 
     public static void main(String[] args) {
