@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd0c5cf-4c6b-4a03-8c4e-ca7f69404e15" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_98_Validate_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_98_Validate_BST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +218,7 @@
       <workItem from="1669136217174" duration="797000" />
       <workItem from="1669144065618" duration="1754000" />
       <workItem from="1669231625812" duration="2570000" />
-      <workItem from="1669467469015" duration="1598000" />
+      <workItem from="1669467469015" duration="3671000" />
     </task>
     <servers />
   </component>
