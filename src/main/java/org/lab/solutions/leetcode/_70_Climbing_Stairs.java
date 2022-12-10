@@ -1,6 +1,8 @@
 package org.lab.solutions.leetcode;
 
 
+import java.util.ArrayList;
+
 /**
  * ou are climbing a staircase. It takes n steps to reach the top.
  *
@@ -78,8 +80,7 @@ public class _70_Climbing_Stairs {
      * @param args
      */
     public static void main(String[] args) {
-        int solution = new _70_Climbing_Stairs().solution(2);
-
+        int solution = new _70_Climbing_Stairs().solution(5);
         System.out.println(solution);
 
     }

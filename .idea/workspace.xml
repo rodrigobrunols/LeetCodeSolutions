@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd0c5cf-4c6b-4a03-8c4e-ca7f69404e15" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_70_Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_70_Climbing_Stairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,37 +61,11 @@
       <recent name="org.lab.solutions.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._509_Fibonacci">
+  <component name="RunManager" selected="Application._746_MinCostClimbingStairs">
     <configuration name="CompressionString" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.CompressionString" />
       <module name="LeetCodeSolutions" />
       <option name="PROGRAM_PARAMETERS" value="abcdefg" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstRecursiveClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.recursion.FirstRecursiveClass" />
-      <module name="LeetCodeSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.lab.solutions.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_205_IsomorphicString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._205_IsomorphicString" />
-      <module name="LeetCodeSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_58_LenthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._58_LenthOfLastWord" />
+    <configuration name="_704_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._704_BinarySearch" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +96,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_704_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._704_BinarySearch" />
+    <configuration name="_70_Climbing_Stairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._70_Climbing_Stairs" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_746_MinCostClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._746_MinCostClimbingStairs" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lab.solutions.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_844_BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._844_BackspaceStringCompare" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
@@ -163,20 +164,20 @@
     <list>
       <item itemvalue="Application.OneWayString" />
       <item itemvalue="Application.CompressionString" />
+      <item itemvalue="Application._746_MinCostClimbingStairs" />
       <item itemvalue="Application._509_Fibonacci" />
+      <item itemvalue="Application._70_Climbing_Stairs" />
+      <item itemvalue="Application._844_BackspaceStringCompare" />
       <item itemvalue="Application._704_BinarySearch" />
-      <item itemvalue="Application.FirstRecursiveClass" />
-      <item itemvalue="Application._205_IsomorphicString" />
-      <item itemvalue="Application._58_LenthOfLastWord" />
       <item itemvalue="Maven.LeetCodeSolutions [clean,compile]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._746_MinCostClimbingStairs" />
+        <item itemvalue="Application._844_BackspaceStringCompare" />
+        <item itemvalue="Application._70_Climbing_Stairs" />
         <item itemvalue="Application._509_Fibonacci" />
         <item itemvalue="Application._704_BinarySearch" />
-        <item itemvalue="Application._205_IsomorphicString" />
-        <item itemvalue="Application.FirstRecursiveClass" />
-        <item itemvalue="Application._58_LenthOfLastWord" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +219,10 @@
       <workItem from="1669136217174" duration="797000" />
       <workItem from="1669144065618" duration="1754000" />
       <workItem from="1669231625812" duration="2570000" />
-      <workItem from="1669467469015" duration="3671000" />
+      <workItem from="1669467469015" duration="7671000" />
+      <workItem from="1669671346693" duration="2370000" />
+      <workItem from="1669746665453" duration="2217000" />
+      <workItem from="1670439864696" duration="1195000" />
     </task>
     <servers />
   </component>
