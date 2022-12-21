@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bd0c5cf-4c6b-4a03-8c4e-ca7f69404e15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_27_RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_62_UniquePaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_70_Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lab/solutions/leetcode/_70_Climbing_Stairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +43,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/rodrigobruno/Desenvolvimento/workspaces/lab-workspace/LeetCodeSolutions&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -61,7 +66,7 @@
       <recent name="org.lab.solutions.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._746_MinCostClimbingStairs">
+  <component name="RunManager" selected="Application._27_RemoveElement">
     <configuration name="CompressionString" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.lab.solutions.strings.CompressionString" />
       <module name="LeetCodeSolutions" />
@@ -70,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_509_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._509_Fibonacci" />
+    <configuration name="_27_RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._27_RemoveElement" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_704_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._704_BinarySearch" />
+    <configuration name="_509_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lab.solutions.leetcode._509_Fibonacci" />
       <module name="LeetCodeSolutions" />
       <extension name="coverage">
         <pattern>
@@ -164,20 +169,20 @@
     <list>
       <item itemvalue="Application.OneWayString" />
       <item itemvalue="Application.CompressionString" />
+      <item itemvalue="Application._27_RemoveElement" />
       <item itemvalue="Application._746_MinCostClimbingStairs" />
       <item itemvalue="Application._509_Fibonacci" />
       <item itemvalue="Application._70_Climbing_Stairs" />
       <item itemvalue="Application._844_BackspaceStringCompare" />
-      <item itemvalue="Application._704_BinarySearch" />
       <item itemvalue="Maven.LeetCodeSolutions [clean,compile]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._27_RemoveElement" />
         <item itemvalue="Application._746_MinCostClimbingStairs" />
         <item itemvalue="Application._844_BackspaceStringCompare" />
         <item itemvalue="Application._70_Climbing_Stairs" />
         <item itemvalue="Application._509_Fibonacci" />
-        <item itemvalue="Application._704_BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +228,10 @@
       <workItem from="1669671346693" duration="2370000" />
       <workItem from="1669746665453" duration="2217000" />
       <workItem from="1670439864696" duration="1195000" />
+      <workItem from="1671138677587" duration="1041000" />
+      <workItem from="1671474697301" duration="1325000" />
+      <workItem from="1671542508113" duration="451000" />
+      <workItem from="1671639737604" duration="816000" />
     </task>
     <servers />
   </component>
